@@ -1,0 +1,12 @@
+set celsius temperature
+set celsius to farenheit conversation rate
+
+if when temperature is equal to 6 or below, show winter image.
+
+else if temperature is equal to 23 or above, show summer image.
+
+else if temperature is below 22 and above 10,
+show fall image.
+
+else if temperature is below 22 and above 8,
+show spring image.
